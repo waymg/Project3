@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>396215774107-9ur5qk90jhgv6c4jphi09805qudvekeq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.396215774107-9ur5qk90jhgv6c4jphi09805qudvekeq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGz1UCqsbQHTz7uVLkamKeXrPnsGPfJFU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>396215774107</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.awdkalilinux.awdkalilinux.com</string>
+	<key>PROJECT_ID</key>
+	<string>kali-linux-293221</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kali-linux-293221.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:396215774107:ios:52e7660f6aa5e89c264f3e</string>
+	<key>DATABASE_URL</key>
+	<string>https://kali-linux-293221.firebaseio.com</string>
+</dict>
+</plist>
